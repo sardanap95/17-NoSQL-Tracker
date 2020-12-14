@@ -1,0 +1,19 @@
+{
+  "name": "17-nosql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./Backend/server.js",
+  "scripts": {
+    "start": "node ./Backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-pushpi:sardanap95/17-NoSQL.git"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.7"
+  },
+  "author": "Pushpi",
+  "license": "ISC"
+}
